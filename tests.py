@@ -5,5 +5,5 @@ class BaseTest(unittest.TestCase):
     def setUp(self):
         pass
 
-    def test_1(self):
+    def test_bot_runs(self):
         pass
