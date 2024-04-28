@@ -10,6 +10,7 @@ from langcodes import Language
 #import speech_recognition as sr
 import webbrowser
 
+
 bot = telebot.TeleBot('7013440101:AAE1os4MQVhWWC85fiOEVt6W4WlaoqO9uUc')
 owm = pyowm.OWM('0dde369d6504f5f84f2596b7fb73b966')
 
